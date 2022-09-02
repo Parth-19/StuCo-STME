@@ -59,6 +59,12 @@ Primary use:
   border-radius: 5px;
 }
 
+#googleForm {
+	margin-left: 50;
+	margin-right: 50;
+  text-align: center;
+}
+
 /*---------------------------------------------*/
 .input100 {
   display: block;
